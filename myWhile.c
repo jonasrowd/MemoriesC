@@ -8,7 +8,7 @@ int main(){
 
 	while(counter <= limit){
 		printf("%d\n", counter);
-		If(counter == 5){
+		if(counter == 5){
 			int counter2 = 5;
 			while(counter2 <= 5){
 				printf("%d\n", counter2);
