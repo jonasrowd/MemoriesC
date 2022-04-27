@@ -7,14 +7,11 @@ Este projeto foi criado durante a explicação dos conceitos básicos e iniciais da
 ## Feito Com:
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.learn-c.org/)
 
-## ?? Contribuição
+## Contribuição
 
 Projeto aberto para todos que queiram aprender.
 
-## ?? Licença
-[![LICENÇA](https://img.shields.io/badge/Custom_GPL_3.0-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
-
-### Support Ou Contato
+### Contato
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jonaomachado/)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jonasrowd#6249)
